@@ -20,6 +20,8 @@
 
 Copilot ![Copilot](https://adoption.microsoft.com/wp-content/uploads/2023/09/icon-copilot.svg)
 
+## :desktop_computer: Seguem os prompts utilizados para gerar esse conteúdo.
+
 
 > seguem os prompts utilizados para gerar esse conteúdo.
 
