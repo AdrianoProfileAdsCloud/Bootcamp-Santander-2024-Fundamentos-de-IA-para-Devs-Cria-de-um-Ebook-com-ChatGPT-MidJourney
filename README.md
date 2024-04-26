@@ -45,7 +45,20 @@
 
 ## :hammer_and_wrench: Como executar
 
-Para executar e gerar este conteúdo basta estar no prompt do ChatGTP(https://chat.openai.com/) e Copilot como descrito já que fiz uso dele também( e digitar os prompts citados acima ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Para executar e gerar este conteúdo basta estar no prompt do ChatGTP(https://chat.openai.com/) e Copilot como dito anteriormente.
+![CodSnap](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Santander-2024-Fundamentos-de-IA-para-Devs-Cria-de-um-Ebook-com-ChatGPT-MidJourney/blob/main/assets/ChatGPT.png)  
+
+![CodSnap](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Santander-2024-Fundamentos-de-IA-para-Devs-Cria-de-um-Ebook-com-ChatGPT-MidJourney/blob/main/assets/Geranando%20T%C3%ADtulo%20para%20E-Book%20Chat%20GPT.png)  
+
+![CodSnap](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Santander-2024-Fundamentos-de-IA-para-Devs-Cria-de-um-Ebook-com-ChatGPT-MidJourney/blob/main/assets/Geranando%20T%C3%ADtulo%20para%20E-Book%20Chat%20GPT.png)  
+
+<br>
+
+# Gerando conteúdo no Copilot.
+
+![CodSnap](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Santander-2024-Fundamentos-de-IA-para-Devs-Cria-de-um-Ebook-com-ChatGPT-MidJourney/blob/main/assets/Copilot-Gera%C3%A7%C3%A3o%20de%20Conteudo.png)  
+
+
 
 
 
