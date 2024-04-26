@@ -17,7 +17,8 @@
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white(https://chat.openai.com/))
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white(https://www.microsoft.com/en/microsoft-365/powerpoint))
-Copilot <a href="https:</a>
+
+Copilot ![Copilot](https://adoption.microsoft.com/wp-content/uploads/2023/09/icon-copilot.svg)
 
 
 > seguem os prompts utilizados para gerar esse conteúdo.
