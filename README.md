@@ -12,6 +12,7 @@
 >  ℹ️ **Note** a imagem de capa do e-book não foipossível gerar pelo Midjourney, como foi requistado no desáfio.Pois não esta mais sendo liberado o acesso Free pelo Discord.Desta forma gereia imagem pelo Copilot-Designer.
 >
 > <a href="https://github.com/AdrianoProfileAdsCloud/Bootcamp-Santander-2024-Fundamentos-de-IA-para-Devs-Cria-de-um-Ebook-com-ChatGPT-MidJourney/blob/main/output/Trilhando%20o%20Caminho%20Java%20-%20Aprendizado%20e%20Boas%20Pr%C3%A1ticas%20em%20Sintonia.pdf" title="E-Book-Java"> :notebook: Clique aqui para ler</a>
+<br>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -19,10 +20,8 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white(https://www.microsoft.com/en/microsoft-365/powerpoint))
 
 Copilot ![Copilot](https://adoption.microsoft.com/wp-content/uploads/2023/09/icon-copilot.svg)
+<br>
 
-## :desktop_computer: Seguem os prompts utilizados para gerar esse conteúdo.
-
-
-> seguem os prompts utilizados para gerar esse conteúdo.
+>## :keyboard: Seguem os prompts utilizados para gerar esse conteúdo.
 
 
