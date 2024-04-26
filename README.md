@@ -14,7 +14,10 @@
  >Para Gerar o conteúdo utilizei uma mesclagem das informações obtidas dos dois, um complementou o que o outro não trouxe como resultado.Todo o conteúdo gerado foi revisado a fim de evitar que o conteúdo saisse fora do objetivo da informação desejada.Não é muito comum mais pode acontecer o que chamamos de "Fatansia Computacional", motivo pelo qual todo conteúdo consumido pelos prompts devem ser revisados!
 > 
 > ℹ️ **Note** a imagem de capa do e-book não foipossível gerar pelo Midjourney, como foi requistado no desáfio.Pois não esta mais sendo liberado o acesso Free pelo Discord.Desta forma gereia imagem pelo Copilot-Designer(Dall-E 3).
-> <a href="https://github.com/AdrianoProfileAdsCloud/Bootcamp-Santander-2024-Fundamentos-de-IA-para-Devs-Cria-de-um-Ebook-com-ChatGPT-MidJourney/blob/main/output/Trilhando%20o%20Caminho%20Java%20-%20Aprendizado%20e%20Boas%20Pr%C3%A1ticas%20em%20Sintonia.pdf" title="E-Book-Java"> :notebook: Clique aqui para ler</a>
+
+ <br>
+ 
+ <a href="https://github.com/AdrianoProfileAdsCloud/Bootcamp-Santander-2024-Fundamentos-de-IA-para-Devs-Cria-de-um-Ebook-com-ChatGPT-MidJourney/blob/main/output/Trilhando%20o%20Caminho%20Java%20-%20Aprendizado%20e%20Boas%20Pr%C3%A1ticas%20em%20Sintonia.pdf" title="E-Book-Java"> :notebook: Clique aqui para ler</a>
 <br>
 
 ## 💻 Tecnologias utilizadas no projeto
