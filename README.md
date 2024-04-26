@@ -16,8 +16,8 @@
 ## 💻 Tecnologias utilizadas no projeto
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white(https://chat.openai.com/))
-- [Copilot](https://copilot.microsoft.com/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white(https://www.microsoft.com/en/microsoft-365/powerpoint))
+[Copilot](https://copilot.microsoft.com/)
 
 
 > seguem os prompts utilizados para gerar esse conteúdo.
