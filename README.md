@@ -23,5 +23,15 @@ Copilot ![Copilot](https://adoption.microsoft.com/wp-content/uploads/2023/09/ico
 <br>
 
 >## :keyboard: Seguem os prompts utilizados para gerar esse conteúdo.
+>
+>ChatGPT/Copilot：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Crie um título de um e-book sobre o tema de Java, sendo o e-book voltado para área mais técnica de desenvolvimento. A junção da linguagem de programação Java com boas práticas de desenvolvimento. O título deve ser estigante e sucinto.Liste cinco titulos                   |
+| conteúdo | Crie um texo para e-book,trazendo os 4 pilares da Orietação a objetos com exemplos de uso em código usando java e os Principios do SOLID exemplos de uso em código usando java.
+|Regras    |>>>Explique sempre de forma simples >>>Traga principais pontos importates >>>Sempre traga exemplos de código em contextos reais de uso >>>Sempre deixe um título sugestivo por tópico |
+
+
 
 
